@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\Lab11p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914CFB7E-A789-4B10-B43F-EC503BC64959}|Lab11p1\\Lab11p1.csproj|d:\\iti\\data\\c#\\diagrams\\day 11 c#\\lab11p1\\lab11p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914CFB7E-A789-4B10-B43F-EC503BC64959}|Lab11p1\\Lab11p1.csproj|solutionrelative:lab11p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70517490-315C-4FA4-A276-6631535D46C7}|Lab11p2\\Lab11p2.csproj|d:\\iti\\data\\c#\\diagrams\\day 11 c#\\lab11p1\\lab11p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70517490-315C-4FA4-A276-6631535D46C7}|Lab11p2\\Lab11p2.csproj|solutionrelative:lab11p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\Lab11p1\\Lab11p2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab11p2\\Program.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\Lab11p1\\Lab11p2\\Program.cs",
+              "RelativeToolTip": "Lab11p2\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowH0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T11:38:05.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\Lab11p1\\Lab11p1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab11p1\\Program.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\Lab11p1\\Lab11p1\\Program.cs",
+              "RelativeToolTip": "Lab11p1\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T11:09:27.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

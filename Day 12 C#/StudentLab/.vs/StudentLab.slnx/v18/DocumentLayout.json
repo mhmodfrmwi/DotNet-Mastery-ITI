@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|d:\\iti\\data\\c#\\diagrams\\day 11 c#\\studentlab\\studentlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|d:\\iti\\data\\c#\\diagrams\\day 11 c#\\studentlab\\studentlab\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|d:\\iti\\data\\c#\\diagrams\\day 11 c#\\studentlab\\studentlab\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\studentlab\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|d:\\iti\\data\\c#\\diagrams\\day 11 c#\\studentlab\\studentlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|d:\\iti\\data\\c#\\diagrams\\day 11 c#\\studentlab\\studentlab\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\studentlab\\studentdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\studentdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\studentlab\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BF2D39-177D-7B49-9C8B-776516628E26}|StudentLab\\StudentLab.csproj|solutionrelative:studentlab\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentLab\\MainForm.Designer.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\MainForm.Designer.cs",
+              "RelativeToolTip": "StudentLab\\MainForm.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAMwEAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:44:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentLab\\MainForm.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\MainForm.cs",
+              "RelativeToolTip": "StudentLab\\MainForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vycAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:30:18.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentListForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\StudentListForm.cs",
+              "RelativeDocumentMoniker": "StudentLab\\StudentListForm.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\StudentListForm.cs [Design]",
+              "RelativeToolTip": "StudentLab\\StudentListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:26:09.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentListForm.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\StudentListForm.cs",
+              "RelativeDocumentMoniker": "StudentLab\\StudentListForm.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\StudentListForm.cs",
+              "RelativeToolTip": "StudentLab\\StudentListForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwDsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:17:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentLab\\AddStudentForm.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\AddStudentForm.cs",
+              "RelativeToolTip": "StudentLab\\AddStudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:10:29.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentLab\\MainForm.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\MainForm.cs [Design]",
+              "RelativeToolTip": "StudentLab\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:01:47.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDetailsForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\StudentDetailsForm.cs",
+              "RelativeDocumentMoniker": "StudentLab\\StudentDetailsForm.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\StudentDetailsForm.cs [Design]",
+              "RelativeToolTip": "StudentLab\\StudentDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:01:50.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentLab\\AddStudentForm.cs",
+              "ToolTip": "D:\\ITI\\data\\C#\\Diagrams\\Day 11 C#\\StudentLab\\StudentLab\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "StudentLab\\AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:01:37.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
