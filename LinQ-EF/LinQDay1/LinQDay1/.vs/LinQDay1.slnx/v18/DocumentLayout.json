@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\data\\LinQ-EF\\LinQDay1\\LinQDay1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA1A7FE-91B6-41BA-A078-323B81F94434}|ConsoleApp1\\ConsoleApp1.csproj|d:\\iti\\data\\linq-ef\\linqday1\\linqday1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA1A7FE-91B6-41BA-A078-323B81F94434}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E9FE8A-023A-4CE6-A4F1-C7768D6A4F62}|LinQDay1p2\\LinQDay1p2.csproj|d:\\iti\\data\\linq-ef\\linqday1\\linqday1\\linqday1p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E9FE8A-023A-4CE6-A4F1-C7768D6A4F62}|LinQDay1p2\\LinQDay1p2.csproj|solutionrelative:linqday1p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\LinQ-EF\\LinQDay1\\LinQDay1\\LinQDay1p2\\Program.cs",
+              "RelativeDocumentMoniker": "LinQDay1p2\\Program.cs",
+              "ToolTip": "D:\\ITI\\data\\LinQ-EF\\LinQDay1\\LinQDay1\\LinQDay1p2\\Program.cs",
+              "RelativeToolTip": "LinQDay1p2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCwAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:10:31.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\LinQ-EF\\LinQDay1\\LinQDay1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\ITI\\data\\LinQ-EF\\LinQDay1\\LinQDay1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T10:56:16.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

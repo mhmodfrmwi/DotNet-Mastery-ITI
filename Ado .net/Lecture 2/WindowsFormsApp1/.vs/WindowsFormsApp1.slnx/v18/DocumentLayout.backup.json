@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\iti\\data\\ado .net\\lecture 2\\windowsformsapp1\\windowsformsapp1\\courselayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\courselayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\windowsformsapp1\\courselayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\courselayers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\iti\\data\\ado .net\\lecture 2\\windowsformsapp1\\windowsformsapp1\\coursebussinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\coursebussinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\windowsformsapp1\\dblayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dblayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{695EE069-1E19-46D3-969C-9DB280909076}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseBussinessLayer.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\CourseBussinessLayer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CourseBussinessLayer.cs",
+              "ToolTip": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\CourseBussinessLayer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CourseBussinessLayer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:23:57.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:30:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseLayers.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\CourseLayers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CourseLayers.cs",
+              "ToolTip": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\CourseLayers.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CourseLayers.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAWwGsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:23:39.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseLayers.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\CourseLayers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CourseLayers.cs",
+              "ToolTip": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\CourseLayers.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\CourseLayers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:23:36.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBLayer.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\DBLayer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DBLayer.cs",
+              "ToolTip": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\DBLayer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\DBLayer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:09:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:00:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\ITI\\data\\Ado .net\\Lecture 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:00:26.246Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
